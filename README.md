@@ -1,6 +1,6 @@
 # Türkçe Haber Metni Özetleme Sistemi
 
-Haber metinleri ön işlemden geçirilmiş haldedir. Burada; etiketleme, öznitelik çıkarımı, sınıflandırmalar, referans yöntem ve bunların farklı parametrelerle deney ortamları geliştirilip çalıştırılarak  edinilen sonuçlar verilmiştir.
+Haber metinleri ön işlemden geçirilmiş haldedir. Burada; etiketleme, öznitelik çıkarımı, sınıflandırmalar, referans yöntem ve bunların farklı parametrelerle deney ortamları geliştirilip çalıştırılarak  edinilen sonuçlar verilmiştir.Proje raporunu incelemeniz mutlaka tavsiye edilir.
 
 
 ## Gerekli Yüklemeler
