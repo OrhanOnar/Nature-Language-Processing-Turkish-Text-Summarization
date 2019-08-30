@@ -26,3 +26,7 @@ python summarization.py
 ```bash
 python summarization.py ornek
 ```
+
+Orhan Onar
+Yavuz Kartal
+Merve Mallı
